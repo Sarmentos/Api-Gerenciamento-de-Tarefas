@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios - Lucas\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\repositorios - lucas\\solution1\\sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\repositorios - lucas\\solution1\\sistemadetarefas\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\repositorios - lucas\\solution1\\sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|c:\\repositorios - lucas\\solution1\\sistemadetarefas\\data\\sistemadetarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2348364A-3FCF-478F-9952-391B5B0A34F7}|SistemaDeTarefas\\SistemaDeTarefas.csproj|solutionrelative:sistemadetarefas\\data\\sistemadetarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:26:26.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:26:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaDeTarefasDbContex.cs",
+              "DocumentMoniker": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Data\\SistemaDeTarefasDbContex.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Data\\SistemaDeTarefasDbContex.cs",
+              "ToolTip": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Data\\SistemaDeTarefasDbContex.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Data\\SistemaDeTarefasDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:22:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaDeTarefas\\Program.cs",
+              "ToolTip": "C:\\Repositorios - Lucas\\Solution1\\SistemaDeTarefas\\Program.cs",
+              "RelativeToolTip": "SistemaDeTarefas\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:21:41.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
